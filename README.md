@@ -6,7 +6,7 @@ See [kaplanderiaz3d-matlab](https://github.com/KaplanDeriaz3D/kaplanderiaz3d-mat
 
 ## Contents
 
-- `Deriaz_Angulos_Alturas2.mlx` — blade angle and head calculation for the Kaplan (axial) case, developed as a pedagogical and validation baseline before extending the methodology to the diagonal-flow case.
+- `Kaplan_Angulos_Alturas2.mlx` — blade angle and head calculation for the Kaplan (axial) case, developed as a pedagogical and validation baseline before extending the methodology to the diagonal-flow case.
 - `Deriaz_Angulos_Alturas2.mlx` — blade angle and head calculation for the Deriaz (diagonal-flow) case, applied to a real hydropower site (Central Hidroeléctrica de Saucelle II, Spain).
 
 ## About this project
