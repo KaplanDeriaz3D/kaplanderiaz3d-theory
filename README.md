@@ -6,8 +6,8 @@ See [kaplanderiaz3d-matlab](https://github.com/KaplanDeriaz3D/kaplanderiaz3d-mat
 
 ## Contents
 
-- `Master_thesis_Deriaz_design_English_Version.pdf`  — English translation of the original masters thesis written in spanish, covers the theoretical basis of the project
-- `Trabajo_fin_de_Master_Diseño_Deriaz_Castellano.pdf`  — Original masters thesis document written in spanish
+- `Master_thesis_Deriaz_design_English_Version.pdf`  — English translation of the original master's thesis, covering the theoretical framework of the project.
+- `Trabajo_fin_de_Master_Diseño_Deriaz_Castellano.pdf`  — Original master's thesis document (in Spanish).
 - `Kaplan_Angulos_Alturas2.mlx` — blade angle and head calculation for the Kaplan (axial) case, developed as a pedagogical and validation baseline before extending the methodology to the diagonal-flow case.
 - `Deriaz_Angulos_Alturas2.mlx` — blade angle and head calculation for the Deriaz (diagonal-flow) case.
 
